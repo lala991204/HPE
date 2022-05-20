@@ -3,7 +3,7 @@
 # My project name is Human Pose Estimation, especially for golf swing.
 # I plan to do HPE(Human Pose Estimation) code reading, pratice and applications.
 
-★★I would like to inform you that I wrote the part that did not reveal the source at the top of the code.
+★★I would like to inform you that I wrote the part that did not reveal the source in 'source' file.
 
 # If you have a question, please give me contact below.
 # Email: oyunjeong7@gmail.com
