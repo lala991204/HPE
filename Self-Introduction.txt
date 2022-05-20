@@ -2,6 +2,9 @@
 # My dream is to be Data Scientist.
 # My project name is Human Pose Estimation, especially for golf swing.
 # I plan to do HPE(Human Pose Estimation) code reading, pratice and applications.
+
+★★I'd like to inform you that I wrote the part that I didn't reveal the source.
+
 # If you have a question, please give me contact below.
 # Email: oyunjeong7@gmail.com
 # Thank you :>
