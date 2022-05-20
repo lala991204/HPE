@@ -1,0 +1,6 @@
+# Hello, my name is Lala.
+# My dream is to be Data Scientist.
+# My project name is Human Pose Estimation, especially for golf swing.
+# If you have a question, please give me contact below.
+# Email: oyunjeong7@gmail.com
+# Thank you :>
